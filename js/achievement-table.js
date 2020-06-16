@@ -98,14 +98,14 @@
 
 (function() {
   var data = [
-    {
-      event: "Kotlin Heroes",
-      org: "Jetbrains",
-      indRank: "8/700",
-      glbRank: "225/4560",
-      date: "Jun 2019",
-      link:"https://codeforces.com/contest/1170"
-    },
+    // {
+    //   event: "Kotlin Heroes",
+    //   org: "Jetbrains",
+    //   indRank: "8/700",
+    //   glbRank: "225/4560",
+    //   date: "Jun 2019",
+    //   link:"https://codeforces.com/contest/1170"
+    // },
     {
       event: "TCS Codevita 8 Round 1",
       org: "TCS Global",
