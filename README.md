@@ -7,3 +7,8 @@ Visit : https://avcbcoder.github.io/
 #### Build with  ![](https://img.shields.io/badge/-HTML-blue) ![](https://img.shields.io/badge/-CSS-yellow) ![](https://img.shields.io/badge/-Javascript-red) 
 
 ---
+
+<br/>
+<p align="center">
+<img src="https://iili.io/J4oXRf.gif" height="500" title="AVC Web Player DEMO">
+</p>
