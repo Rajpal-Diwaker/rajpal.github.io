@@ -10,5 +10,5 @@ Visit : https://avcbcoder.github.io/
 
 <br/>
 <p align="center">
-<img src="https://iili.io/J4oXRf.gif" height="500" title="AVC Web Player DEMO">
+<img src="https://iili.io/J4oXRf.gif" height="500" title="Portfolio DEMO">
 </p>
