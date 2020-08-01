@@ -5,17 +5,20 @@ function startSlides() {
 
     const slides = slider.children;
 
-    let currentSlide = 1;
+    let currentSlide = 0;
     introHead.style.display = "none";
     slider.style.display = "block";
 
+    for (let i = 0; i < slides.length; i++) slides[i].style.display = "none";
+    slides[currentSlide].style.display = "block";
+
     setInterval(() => {
-      for (let i = 0; i < slides.length; i++) slides[i].style.display = "none";
-      slides[currentSlide].style.display = "block";
+      slides[currentSlide].style.display = "none";
       currentSlide = (currentSlide + 1) % 3;
+      slides[currentSlide].style.display = "block";
     }, 3000);
 }
 
 window.addEventListener("load", () => {
-  setTimeout(startSlides, 1000);
+  setTimeout(startSlides, 2200);
 });
